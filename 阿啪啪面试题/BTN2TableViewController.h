@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BTN2TableViewController.h
 //  阿啪啪面试题
 //
 //  Created by 姜梓烯 on 16/2/20.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BTN2TableViewController : UITableViewController
 
 @end
-
